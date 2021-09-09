@@ -115,6 +115,9 @@ kramdown:
     block:
       line_numbers: false
 
+jekyll_auth:
+  ssl: true
+
 compress_html:
   clippings: all
   comments: all
