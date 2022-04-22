@@ -38,7 +38,8 @@ parent: "Методы API"
             "orderTariffId": 645896
         }
     }
-}```
+}
+```
 </section>
 </details>
 
@@ -59,7 +60,8 @@ parent: "Методы API"
             "resultMessage": "OK"
         }
     }
-}}```
+}}
+```
 </section>
 </details>
 
