@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Тройка.Бизнес API v3"
-description: "Техническая документация и описание Трофка.Бизнес API v3"
+title: "Тройка Бизнес API v3"
+description: "Техническая документация и описание агентского API - Тройка Бизнес API v3"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://docs.troika.business" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -64,7 +64,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Сайт Тройка.Бизнес":
+  "Сайт Тройка Бизнес":
     - "//troika.business"
 
 # Makes Aux links open in a new tab. Default is false
