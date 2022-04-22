@@ -2,7 +2,7 @@
 layout: default
 nav_order: 1
 title: Создание заказа
-parent: "Работа с заказом"
+parent: "Методы API"
 ---
 
 # Создание заказа
