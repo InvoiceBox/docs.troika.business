@@ -36,4 +36,4 @@ parent: "Методы API"
 | price        | Да           | FLOAT      | Стоимость карты                |
 | deposit      | Да           | FLOAT      | Сумма залога при покупке карты |
 
-[Читать далее &raquo;](/docs/methods/app_create_order){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Читать далее &raquo;](/docs/methods/app_create_order/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

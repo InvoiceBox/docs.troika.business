@@ -12,4 +12,4 @@ title: "Термины и определения"
 - **Пользователь** – лицо, пополняющее карту через агента
 
 
-[Читать далее &raquo;](/docs/schema){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Читать далее &raquo;](/docs/schema/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

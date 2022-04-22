@@ -36,4 +36,4 @@ sequenceDiagram
 1. Система &laquo;Тройка Бизнес&raquo; передаёт информацию о записанном билете в расчётный центр &laquo;Инвойсбокс&raquo;.
 1. Агент производит взаиморасчёты в расчётном центре &laquo;Инвойсбокс&raquo;.
 
-[Читать далее &raquo;](/docs/methods){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Читать далее &raquo;](/docs/api/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
