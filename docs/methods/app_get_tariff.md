@@ -41,7 +41,7 @@ parent: "Методы API"
 | validityDays  | Да              | INT         | Количество дней, в течение которых тариф действует              |
 | relatedValues | Да              | ARRAY       | Значения для отображения подсказок                              |
 | relatedIds    | Да              | ARRAY       | Идентификаторы связанных тарифов                                |
-| types         | Да              | ARRAY       | Доступные типы транспорта для тарифа, возможные значения: metro,tram,bus,trolleybus,train  |
+| types         | Да              | ARRAY       | Доступные типы транспорта для тарифа, возможные значения: metro,tram,bus,trolleybus,train |
 | zone          | Да              | ENUM        | Зона действия тарифа (для Москвы - a, b, both)                  |
 
 [Читать далее &raquo;](/docs/methods/app_get_cardtype/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
