@@ -34,7 +34,6 @@ parent: "Методы API"
             "time": "2022-04-22 10:35:31 +03:00"
         },
         "body": {
-            "msgType": "app_cancel_ticket",
             "orderTariffId": 645896
         }
     }
@@ -60,7 +59,7 @@ parent: "Методы API"
             "resultMessage": "OK"
         }
     }
-}}
+}
 ```
 </section>
 </details>
