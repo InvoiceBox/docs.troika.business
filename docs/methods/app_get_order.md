@@ -11,7 +11,6 @@ parent: "Методы API"
 
 - HTTP метод: `POST`
 - наименование метода API: `app_get_order`
-- Возможные [ошибки](/docs/dictionary/error)
 
 
 ## Параметры запроса
@@ -42,7 +41,5 @@ parent: "Методы API"
 | currencyId     | Да                          | FLOAT      | Идентификатор валюты оплаты                                    |
 | amount         | Да, если тип тарифа = purse | FLOAT      | Сумма пополнения                                               |
 | quantity       | Да, если type=newcard       | INT        | Количество билетов                                             |
-
---
 
 [Читать далее &raquo;](/docs/methods/app_get_tickets){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
