@@ -93,6 +93,4 @@ API Тройка Бизнес представляет собой набор HTT
 ```
 
 
----
-
 [Читать далее &raquo;](/docs/api){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
