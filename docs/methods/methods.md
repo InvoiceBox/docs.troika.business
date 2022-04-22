@@ -6,15 +6,13 @@ has_children: true
 permalink: /docs/methods
 ---
 
-# Работа с заказом
+# Доступные методы API
 
-- [app_create_order](/methods/app_create_order/)
-- [app_get_order](/methods/app_get_order/)
-
-# Работа с билетами
-
-- [app_get_tickets](/methods/app_get_tickets/)
-- [app_cancel_ticket](/methods/app_cancel_ticket/)
-
+- Получение списка тарифов - [app_get_tariff](/docs/methods/app_get_tariff)
+- Получение доступных типов карт - [app_get_cardtype](/docs/methods/app_get_cardtype)
+- Создание заказа - [app_create_order](/docs/methods/app_create_order)
+- Получение заказа по идентификатору заказа - [app_get_order](/docs/methods/app_get_order)
+- Получение заказов по номеру карты - [app_get_tickets](/docs/methods/app_get_tickets)
+- Отмена билета в заказе - [app_cancel_ticket](/docs/methods/app_cancel_ticket)
 
 {: .fs-6 .fw-300 }

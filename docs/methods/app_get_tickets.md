@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 30
+nav_order: 50
 title: Создание заказа
 parent: "Методы API"
 ---
@@ -48,4 +48,4 @@ parent: "Методы API"
 
 --
 
-[Читать далее &raquo;](/docs/methods/app_get_order){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Читать далее &raquo;](/docs/methods/app_cancel_ticket){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

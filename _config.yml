@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Тройка.Бизнес API v2"
+title: "Тройка.Бизнес API v3"
 description: "Техническая документация и описание Трофка.Бизнес API v3"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://docs.troika.business" # the base hostname & protocol for your site, e.g. http://example.com
