@@ -35,7 +35,7 @@ parent: "Методы API"
 | validityDays  | Да           | INT    | Срок действия билета  | 7                                |
 | types         | Да           | STRING | Типы транспорта       | metro,tram,bus,trolleybus,train  |
 | zone          | Да           | STRING | Зона действия         | A                                |
-| status        | Да           | STRING | Статус билета         | pending/writed/payback           |
+| status        | Да           | STRING | Статус билета         | pending/written/payback          |
 
 
 [Читать далее &raquo;](/docs/methods/app_cancel_ticket/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
