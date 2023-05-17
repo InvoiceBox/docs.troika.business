@@ -14,7 +14,7 @@ permalink: /docs/methods
 - Получение доступных типов карт - [app_get_cardtype](/docs/methods/app_get_cardtype/)
 - Создание заказа - [app_create_order](/docs/methods/app_create_order/)
 - Получение заказа по идентификатору заказа - [app_get_order](/docs/methods/app_get_order/)
-- Получение заказов по номеру карты - [app_get_tickets](/docs/methods/app_get_tickets/)
+- Получение билета - [app_get_ticket](/docs/methods/app_get_ticket/)
 - Отмена билета в заказе - [app_cancel_ticket](/docs/methods/app_cancel_ticket/)
 
 ## Общие методы
