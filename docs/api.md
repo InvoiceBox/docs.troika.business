@@ -54,7 +54,7 @@ title: "Подключение к API"
             "terminalId": "bus_f78a8a6aa7fb3d5",
             "languageId": "ru",
             "phone": "+73946027654",
-            "time": "2022-04-22 00:21:02 +03:00"
+            "time": "2024-04-22 00:21:02 +03:00"
         },
         "body": {
             "orderData": [

@@ -31,7 +31,7 @@ parent: "Методы API"
             "languageId": "ru",
             "phone": "+72348544565",
             "terminalId": "bus_d23bcd26b59741a",
-            "time": "2022-04-22 10:35:31 +03:00"
+            "time": "2024-04-22 10:35:31 +03:00"
         },
         "body": {
             "orderTariffId": 645896
